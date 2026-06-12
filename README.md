@@ -42,7 +42,7 @@ The trained model successfully detects passengers and identifies fall situations
 
 ### Sample Outputs
 
-
+![Results](https://github.com/FulberRenika/Fall_Detection_of_Passengers_in_Railways/blob/main/Example1.png?raw=true)
 
 ## Future Improvements
 

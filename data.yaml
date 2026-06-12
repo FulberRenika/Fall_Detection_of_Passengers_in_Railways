@@ -1,0 +1,21 @@
+# train: '/content/drive/MyDrive/datasets/train'
+
+# val: '/content/drive/MyDrive/datasets/val'
+
+# nc: 2
+
+# names: ['Normal','Danger']
+
+# path: /content/drive/MyDrive/datasets
+# train: train/images
+# val: val/images
+
+# names: ['Normal', 'Danger']
+
+path: /content/drive/MyDrive/datasets
+train: train/images
+val: val/images
+
+names:
+  0: Normal
+  1: Danger
